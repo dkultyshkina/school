@@ -1,0 +1,36 @@
+ul {
+  text-align: center;
+  list-style: none; 
+  margin: 0; 
+  padding-left: 0;
+  margin-top:25px;
+  background:#FFFFFF; 
+  height: 50px;
+  display: inline-block;
+	text-align: center;
+}
+
+a {
+	text-align: center;
+  text-decoration: none;
+  background:#FFFFFF; 
+  color:#000000;
+  padding:0px 15px; 
+  font-family: arial;
+  line-height:25px;
+  display: inline-block; 
+  border: 1px solid #22449F;	
+}
+
+a:hover {
+  background:#3770EC;
+}
+
+li {
+  list-style: none; 
+  height: 40px;
+  margin-top:5px; 
+  padding-left: 0;
+  display: inline-block;
+	text-align: center;
+}
